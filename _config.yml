@@ -1,0 +1,19 @@
+title: damondriscoll
+email: damondriscoll@gmail.com
+description: >-
+  damondriscoll
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+
+plugins:
+  - jekyll-feed
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      permalink: "/journal/:title"
