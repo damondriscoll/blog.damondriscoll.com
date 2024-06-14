@@ -6,11 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="color-scheme" content="light dark">
     <link rel="icon" type="image/png" href="data:image/png;base64,">
-    <title>{{ page.title }}</title>
+    <title> {% if page.layout == "post" %}
+              {{ page.date | date_to_long_string | downcase }} - {{ page.title }} 
+            {% else %}
+              {{ page.title }}
+            {% endif %}
+    </title>
     <style>
         @media (prefers-color-scheme: dark){
             body {
-                background:#000
+                background:#111111
             }
         }
         body{
@@ -21,6 +26,11 @@
         }
         h1,h2,h3 {
             line-height:1.2
+        }
+        img {
+          max-width: 100%;
+          height: auto;
+          max-height: 50vh; /* Max height relative to viewport height */
         }
         @media print{
             body{

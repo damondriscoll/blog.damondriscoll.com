@@ -4,11 +4,15 @@ title: info
 permalink: /info/
 ---
 # {{page.title}}
+
 **[email](mailto:damondriscoll@gmail.com)**
 - damondriscoll@gmail.com
 
 **[github](https://github.com/damondriscoll)**
 - github.com/damondriscoll
+
+**discord**
+- amdon
 
 **inspired by**
 - [this motherfucking website](https://bestmotherfucking.website/) and its variants

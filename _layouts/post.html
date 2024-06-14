@@ -1,6 +1,18 @@
 ---
 layout: default
 ---
-<h1> {{ page.date | date_to_long_string | downcase }} </h1>
+<h1> {{ page.date | date_to_long_string | downcase }} - {{ page.title }}</h1>
 
 {{ content }}
+
+{% assign pageTitle = page.title | plus: 0 %}
+{% for post in site.posts %}
+    {% assign postTitleMinusOne = post.title | minus: 1 %}
+    {% assign postTitlePlusOne = post.title | plus: 1 %}
+    {% if pageTitle == postTitleMinusOne %}
+        <a href="{{ post.url }}">next</a>
+    {% endif %}
+    {% if pageTitle == postTitlePlusOne %}
+        <a href="{{ post.url }}">previous</a>
+    {% endif %}
+{% endfor %}

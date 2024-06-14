@@ -3,6 +3,6 @@ layout: default
 title: home
 permalink: /
 ---
-# {{page.title}}
-*i see...* welcome!
+# damon driscoll
 
+![stick figure holding a brown wooden sign that has the word welcome on it over his head](imgs/welcome.png)
