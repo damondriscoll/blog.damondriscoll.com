@@ -1,11 +1,5 @@
-title: damondriscoll
-email: damondriscoll@gmail.com
-description: >-
-  damondriscoll
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
+baseurl: ""
+url: https://damondriscoll.com
 
 plugins:
   - jekyll-feed
