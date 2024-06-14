@@ -1,5 +1,7 @@
-plugins:
-  - jekyll-feed
+title: damondriscoll
+description: a site where damon driscoll journals
+url: https://damondriscoll.com
+author: damon driscoll
 
 defaults:
   -
@@ -14,4 +16,7 @@ defaults:
       type: "posts"
     values:
       permalink: "/journal/:title"
+
+feed:
+  path: /rss/
   
