@@ -1,6 +1,3 @@
-baseurl: ""
-url: https://damondriscoll.com
-
 plugins:
   - jekyll-feed
 

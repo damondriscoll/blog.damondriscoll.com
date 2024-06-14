@@ -1,7 +1,7 @@
 ---
 layout: default
 title: journal
-permalink: /journal
+permalink: /journal/
 ---
 # {{page.title}}
 <ol>
