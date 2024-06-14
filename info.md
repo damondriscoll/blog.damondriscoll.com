@@ -4,9 +4,12 @@ title: info
 permalink: /info/
 ---
 # {{page.title}}
-**email**
+**[email](mailto:damondriscoll@gmail.com)**
 - damondriscoll@gmail.com
 
-**github**
-- github.com/[damondriscoll](https://github.com/damondriscoll)
+**[github](https://github.com/damondriscoll)**
+- github.com/damondriscoll
 
+**inspired by**
+- [this motherfucking website](https://bestmotherfucking.website/) and its variants
+- [instant gratification monkey](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
