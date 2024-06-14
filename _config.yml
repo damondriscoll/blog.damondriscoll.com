@@ -1,5 +1,5 @@
 title: damondriscoll
-description: a site where damon driscoll journals
+description: a site where damon driscoll writes things
 url: https://damondriscoll.com
 author: damon driscoll
 
@@ -15,7 +15,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      permalink: "/journal/:title"
+      permalink: "/blog/:title"
 
 feed:
   path: /rss/

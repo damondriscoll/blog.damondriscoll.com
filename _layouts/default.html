@@ -5,12 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="color-scheme" content="light dark">
-    <title> {% if page.layout == "post" %}
-              {{ page.date | date_to_long_string | downcase }} - {{ page.title }} 
-            {% else %}
-              {{ page.title }}
-            {% endif %}
-    </title>
+    <title> {{ page.title | downcase }} </title>
     <style>
         @media (prefers-color-scheme: dark){
             body {
@@ -40,7 +35,7 @@
   <body>
     <nav>
       <a href="/">home</a>
-      <a href="/journal/">journal</a>
+      <a href="/blog/">blog</a>
       <a href="/info/">info</a>
     </nav>
     {{ content }}

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: journal
-permalink: /journal/
+title: blog
+permalink: /blog/
 ---
 # {{page.title}}
 
@@ -9,6 +9,6 @@ permalink: /journal/
 
 <ul>
 {% for post in sorted_posts %}
-  <li> <a href="{{ post.url }}">{{ post.date | date_to_long_string | downcase}}</a> - {{ post.title }} </li>
+  <li> <a href="{{ post.url }}">{{ post.date | date_to_long_string | downcase}}</a> - {{ post.title | downcase }} </li>
 {% endfor %}
 </ul>
