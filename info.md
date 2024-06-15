@@ -11,9 +11,6 @@ permalink: /info/
 **[github](https://github.com/damondriscoll)**
 - github.com/damondriscoll
 
-**discord**
-- amdon
-
 **inspired by**
 - [this motherfucking website](https://bestmotherfucking.website/) and its variants
 - [instant gratification monkey](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
