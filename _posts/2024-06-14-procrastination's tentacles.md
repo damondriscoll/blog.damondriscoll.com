@@ -25,10 +25,10 @@ eating better, working out, the whole shebang; they were like a healthy smokescr
 
 ![a stick figure running while smiling in a grass field of flowers](/imgs/2-2.png)
 ## what works for me
-environment changes. there’s a good reason why inside of every starbucks there are at least 5 people trying to get work done. the shared atmosphere of people doing the things they care about is great for moral.
+***environment changes.*** there’s a good reason why inside of every starbucks there are at least 5 people trying to get work done. the shared atmosphere of people doing the things they care about is great for moral.
 \
 \
-no zero days. if you think it’s too late to get something done, don’t fear! just do a little bit of that task you were reluctant to start. at the very least you progressed somewhat, that’s better than doing nothing at all. surprisingly this habit can start to gain traction and you become a natural at doing a few things you thought were difficult per day without fail.
+***no zero days.*** if you think it’s too late to get something done, don’t fear! just do a little bit of that task you were reluctant to start. at the very least you progressed somewhat, that’s better than doing nothing at all. surprisingly this habit can start to gain traction and you become a natural at doing a few things you thought were difficult per day without fail.
 
 ## conclusion
 figure out what works and doesn't work for you. the best thing you can do is realize that big changes won’t happen overnight. **adopting small habits and learning what scenarios you thrive in is vital.**
