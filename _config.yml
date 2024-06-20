@@ -17,7 +17,7 @@ defaults:
       permalink: ""
   -
     scope:
-      path: "_posts/"
+      path: ""
       type: "posts"
     values:
       permalink: "/blog/:title"
