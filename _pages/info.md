@@ -5,8 +5,8 @@ permalink: /info/
 ---
 # {{page.title}}
 
-**[email](mailto:damondriscoll@gmail.com)**
-- damondriscoll@gmail.com
+**email**
+- \<the name of me and this website\>@gmail.com
 
 **[github](https://github.com/damondriscoll)**
 - github.com/damondriscoll
