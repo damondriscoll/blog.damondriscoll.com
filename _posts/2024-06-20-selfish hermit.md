@@ -1,4 +1,4 @@
-![a stick figure in a hermit crab shell](/imgs/3.png)
+![a stick figure in a hermit crab shell](/_images/3.png)
 
 i have a *massive problem* - deep down i want to become a **hermit**. socially, a recluse from society, at all times.
 

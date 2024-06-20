@@ -1,24 +1,28 @@
 title: damondriscoll
 description: a site where damon driscoll writes things
 url: https://damondriscoll.com
+email: damondriscoll@gmail.com
 author: damon driscoll
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 defaults:
   -
     scope:
-      path: "feed.xml"
-    values:
-      permalink: "/feed"
-  -
-    scope:
-      path: ""
+      path: "_pages/"
       type: "pages"
     values:
       permalink: ""
   -
     scope:
-      path: ""
+      path: "_posts/"
       type: "posts"
     values:
       permalink: "/blog/:title"
+
+include:
+ - _images
+ - _pages
   

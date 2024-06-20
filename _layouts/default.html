@@ -25,12 +25,21 @@
           max-width: 80vh;
           max-height: 50vh;
         }
+        a[href^="#"] {
+            color: rgb(77, 77, 77);
+            font-weight: normal;
+            text-decoration: none;
+        }
+        a[href^="#"]:hover {
+            text-decoration: underline;
+        }
         @media print{
             body{
                 max-width:none
             }
         }
     </style>
+    {% seo %}
   </head>
   <body>
     <nav>
@@ -39,6 +48,6 @@
       <a href="/info/">info</a>
       <a href="/feed.xml">rss</a>
     </nav>
-    {{ content }}
+    {% include anchor_headings.html html=content anchorBody="#" %}
   </body>
 </html>

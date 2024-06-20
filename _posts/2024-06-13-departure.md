@@ -1,4 +1,4 @@
-![stick figure scratching his head with a question mark over him](/imgs/1.png)
+![stick figure scratching his head with a question mark over him](/_images/1.png)
 
 well, this is going to be strange.\
 \

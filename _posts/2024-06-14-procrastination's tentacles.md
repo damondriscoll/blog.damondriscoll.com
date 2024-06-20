@@ -1,4 +1,4 @@
-![a stick figure sitting on a brown bench with a thought bubble coming out of his head thinking about tentacles](/imgs/2-1.png)
+![a stick figure sitting on a brown bench with a thought bubble coming out of his head thinking about tentacles](/_images/2-1.png)
 
 im what everyone jokingly calls themselves, a *terrible procrastinator*. im not saying im different from said people, but i certainly deal with it worse than most.
 
@@ -23,7 +23,7 @@ i thought for sure this would help me more than it did, but i would just end up 
 ## lifestyle changes
 eating better, working out, the whole shebang; they were like a healthy smokescreen. my main problem when it comes to procrastinating is that i will hone in on a specific thing to do and obsess over it for a period of time instead of doing what i actually have to do. thus when i’m in the mood to lose weight or exercise avidly, it comes at the expense of my main desires. when i come back to reality, i’ve done nothing but convince myself i was being productive by being good to my body.
 
-![a stick figure running while smiling in a grass field of flowers](/imgs/2-2.png)
+![a stick figure running while smiling in a grass field of flowers](/_images/2-2.png)
 ## what works for me
 ***environment changes.*** there’s a good reason why inside of every starbucks there are at least 5 people trying to get work done. the shared atmosphere of people doing the things they care about is great for moral.
 \
