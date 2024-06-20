@@ -6,6 +6,11 @@ author: damon driscoll
 defaults:
   -
     scope:
+      path: "feed.xml"
+    values:
+      permalink: "/feed"
+  -
+    scope:
       path: ""
       type: "pages"
     values:
@@ -16,7 +21,4 @@ defaults:
       type: "posts"
     values:
       permalink: "/blog/:title"
-
-feed:
-  path: /rss/
   
