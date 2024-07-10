@@ -24,7 +24,7 @@ i imagine this is where anyone reading this post becomes confused, and thinks th
 
 ## compromise
 
-however i've come to the conclusion recently from talking with my girlfriend that keeping my friends distanced like this is really unfair, and that i should force myself to spend time with friends i care about at least once a month. this makes sense, and is definitely the mature decision that helps my friends understand that i don’t hate them. it really is the simple solution, and i just need to act more responsibly.
+however i've come to the conclusion recently from talking with a friend that keeping my friends distanced like this is really unfair, and that i should force myself to spend time with friends i care about at least once a month. this makes sense, and is definitely the mature decision that helps my friends understand that i don’t hate them. it really is the simple solution, and i just need to act more responsibly.
 
 ## what about you?
 
